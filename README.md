@@ -70,6 +70,10 @@ Atualmente, atuo como **Desenvolvedor de Software** na **Leiaute Propaganda**, o
 ### 📊 **Estatísticas do GitHub**
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SrCoelhoSH&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrCoelhoSH&layout=compact&theme=dark)  
+![Stats](https://srcoelhosh.github.io/github-readme-stats/api?username=SrCoelhoSH&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
+![Top Langs](https://srcoelhosh.github.io/github-readme-stats/api/top-langs/?username=SrCoelhoSH&layout=compact&theme=dark&count_private=true)
+
 
 ---
 
