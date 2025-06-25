@@ -22,6 +22,37 @@ Atualmente, atuo como **Desenvolvedor de Software** na **Leiaute Propaganda**, o
 
 ---
 
+---
+
+## 🚀 Principais Projetos & Cases de Sucesso
+
+Aqui estão alguns projetos que liderei e desenvolvi, demonstrando minha experiência na criação de soluções complexas e de alto impacto.
+
+
+
+### 🤖 **Plataforma de Orquestração de Agentes de IA (API First)**
+* **Descrição:** Desenvolvi uma API modular e escalável para orquestrar múltiplos agentes de IA (integrada a modelos como GPT e CrewAI). A arquitetura permite a fácil adição de novas inteligências e serve como um cérebro central para outras aplicações, como sistemas de automação e análise de dados.
+* **Problema Resolvido:** Centralização da lógica de IA, redução do tempo de desenvolvimento para novas automações e criação de uma base flexível para produtos futuros.
+* **Tecnologias:** `Python`, `Django REST Framework`, `Docker`, `GPT-4`, `LangChain`, `CrewAI`, `PostgreSQL`.
+* **Status:** 🔒 Código proprietário. Um estudo de caso detalhado pode ser discutido em uma entrevista.
+
+
+
+### 📊 **Sistema de Automação de Inteligência de Mercado (Web Scraping + IA)**
+* **Descrição:** Construí um sistema autônomo que utiliza um servidor Selenium para realizar web scraping em mais de 30 portais de notícias. Os dados coletados são processados pela API de IA para resumo e classificação, e os insights são distribuídos em tempo real via notificações no WhatsApp.
+* **Impacto:** Automação completa do monitoramento de mercado, economizando aproximadamente 15 horas de trabalho manual por semana e acelerando a tomada de decisão estratégica.
+* **Tecnologias:** `Selenium`, `Python`,`FastAPI` `API de Agentes (projeto próprio)`, `Twilio API`.
+* **Status:** 🔒 Código proprietário.
+
+
+
+### 📈 **ERP Customizado para Agência de Publicidade**
+* **Descrição:** Liderei o desenvolvimento de um sistema ERP completo para uma agência de publicidade, digitalizando e integrando os fluxos de trabalho de ponta a ponta.
+* **Módulos Desenvolvidos:** Gestão de Projetos (Jobs), Controle Financeiro, Faturamento, Pauta de Tarefas e Relatórios Gerenciais.
+* **Impacto:** Aumento de 25% na eficiência operacional ao centralizar informações e reduzir erros manuais de faturamento.
+* **Tecnologias:** `Django`, `React.js`, `PostgreSQL`, `AWS`.
+* **Status:** 🔒 Código proprietário.
+
 ## 🛠️ Tecnologias e Ferramentas  
 ### **🚀 Linguagens de Programação**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
