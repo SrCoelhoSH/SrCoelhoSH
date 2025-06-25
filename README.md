@@ -34,7 +34,7 @@ Aqui estão alguns projetos que liderei e desenvolvi, demonstrando minha experi�
 * **Descrição:** Desenvolvi uma API modular e escalável para orquestrar múltiplos agentes de IA (integrada a modelos como GPT e CrewAI). A arquitetura permite a fácil adição de novas inteligências e serve como um cérebro central para outras aplicações, como sistemas de automação e análise de dados.
 * **Problema Resolvido:** Centralização da lógica de IA, redução do tempo de desenvolvimento para novas automações e criação de uma base flexível para produtos futuros.
 * **Tecnologias:** `Python`, `Django REST Framework`, `Docker`, `GPT-4`, `LangChain`, `CrewAI`, `PostgreSQL`.
-* **Status:** 🔒 Código proprietário. Um estudo de caso detalhado pode ser discutido em uma entrevista.
+* **Status:** 🔒 Código proprietário. 
 
 
 
