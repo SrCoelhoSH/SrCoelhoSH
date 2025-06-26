@@ -50,7 +50,7 @@ Aqui estão alguns projetos que liderei e desenvolvi, demonstrando minha experi�
 * **Descrição:** Liderei o desenvolvimento de um sistema ERP completo para uma agência de publicidade, digitalizando e integrando os fluxos de trabalho de ponta a ponta.
 * **Módulos Desenvolvidos:** Gestão de Projetos (Jobs), Controle Financeiro, Faturamento, Pauta de Tarefas e Relatórios Gerenciais.
 * **Impacto:** Aumento de 25% na eficiência operacional ao centralizar informações e reduzir erros manuais de faturamento.
-* **Tecnologias:** `Django`, `React.js`, `PostgreSQL`, `AWS`.
+* **Tecnologias:** `Python`, `Django`, `React.js`, `PostgreSQL`, `AWS`.
 * **Status:** 🔒 Código proprietário.
 
 ## 🛠️ Tecnologias e Ferramentas  
