@@ -86,7 +86,7 @@ Aqui estão alguns projetos que liderei e desenvolvi, demonstrando minha experi�
 ---
 
 ### 🎓 **Formação Acadêmica** 📚
-- **📌 Engenharia de Software** – Descomplica Faculdade Digital (2022 - 2026)  
+- **📌 Engenharia de Software** – Faculdade UNIME (2022 - 2026)  
 - **📌 Técnico em Informática** – Colégio Estadual De Aplicação Anísio Teixeira (2017 - 2020)  
 
 ---
